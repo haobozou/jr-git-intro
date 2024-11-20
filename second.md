@@ -1,1 +1,1 @@
-dolor sit amet
+lorem ipsum
